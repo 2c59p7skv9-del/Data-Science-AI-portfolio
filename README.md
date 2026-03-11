@@ -1,1 +1,1 @@
-# Data-Science-AI-portfolio
+# data-science-ai-portfolio
