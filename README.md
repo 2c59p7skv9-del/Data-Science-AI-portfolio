@@ -1,52 +1,57 @@
-# Data Science & AI Portfolio
+# MSc Data Science & AI – AUEB
 
-MSc Data Science & AI student focused on building practical machine learning systems, NLP applications, and scalable data solutions.
+## Details
 
-## 📚 Courses & Projects
+- **University:** Athens University of Economics and Business  
+- **Program:** Master of Science in Data Science & AI  
+- **Status:** Full-Time Student  
+- **Structure:** Courses & Projects  
+- **Website:** https://datascience.aueb.gr  
 
-- [Practical Data Science](./practical-data-science)
-- [Machine Learning](./machine-learning)
-- [LLMs with Knowledge Graphs](./llms-with-knowledge-graphs)
-- [Large Scale Data Management](./large-scale-data-management)
-- [Text Analytics](./text-analytics)
-- [Probabilities & Statistics for Data Analysis](./probabilities-and-statistics-for-data-analysis)
-- [Numerical Optimization & Large-Scale Linear Algebra](./numerical-optimization-and-large-scale-linear-algebra)
+---
 
-## ⚙️ Focus Areas
+## Introduction
 
-- Machine Learning & Deep Learning
-- Natural Language Processing (NLP)
-- Large Language Models (LLMs)
-- Knowledge Graphs & Graph-based Systems
-- Data Engineering & Scalable Pipelines
+This repository contains coursework, assignments, and projects completed during my MSc in Data Science & AI at AUEB.
 
+The goal of this repository is to showcase practical implementations of machine learning, NLP, and large-scale data processing techniques across multiple courses.
 
+Each course is organized in its respective folder and includes relevant projects, code, and reports.
 
-## 🛠️ Tech Stack
+In cases where datasets are publicly available, references or links are provided. Due to academic policies, some datasets or materials may not be included.
 
-**Languages & Core**
-- Python, R
+---
 
-**Machine Learning & Deep Learning**
-- Scikit-learn
-- PyTorch
+## Courses
 
-**NLP & LLMs**
-- HuggingFace Transformers
-- NLTK / spaCy
+- Practical Data Science  
+- Machine Learning  
+- LLMs with Knowledge Graphs  
+- Large Scale Data Management  
+- Text Analytics  
+- Probabilities & Statistics for Data Analysis  
+- Numerical Optimization & Large-Scale Linear Algebra  
 
-**Data Handling**
-- Pandas
-- NumPy
+---
 
-**Big Data & Distributed Systems**
-- Apache Spark
-- Hadoop MapReduce
-- Hive
-- Cassandra
+## Focus Areas
 
-**Databases & Graphs**
-- Neo4j
+- Machine Learning & Deep Learning  
+- Natural Language Processing (NLP)  
+- Large Language Models (LLMs)  
+- Knowledge Graphs  
+- Data Engineering & Scalable Systems  
 
-**Tools**
-- Jupyter Notebook
+---
+
+## Repository Structure
+
+Each course folder contains:
+- Assignments and projects  
+- Code implementations  
+- Reports and analysis
+
+---
+## Notes
+
+This repository is continuously updated with new coursework and projects.
