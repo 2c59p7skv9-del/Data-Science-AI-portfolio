@@ -1,1 +1,28 @@
-Introduction to the basic ideas of statistical learning models (supervised and unsupervised learning). Model selection, feature selection and cross-validation. Linear regression and logistic regression. Generalized linear models. K-nearest neighbor classification, Bayes and naive Bayes classifiers. Kernel Discriminant Analysis and Support Vector Machines. Unsupervised learning methods. Clustering using k-means and mixtures models. The EM algorithm. Dimensionality reduction using PCA, probabilistic PCA, factor analysis and independent component analysis.
+# Machine Learning
+
+This course focuses on fundamental machine learning algorithms and their practical implementation.
+
+## Overview
+
+Covers core supervised and unsupervised learning methods, model evaluation, and optimization techniques.
+
+## Topics Covered
+
+- Linear and Logistic Regression  
+- Support Vector Machines (SVM)  
+- Bayesian methods (Naive Bayes)  
+- Clustering algorithms (e.g. k-means)  
+- Model evaluation (accuracy, precision, recall, F1-score)  
+- Regularization techniques  
+- Feature engineering  
+- Model selection and hyperparameter tuning  
+
+## Projects
+
+- Implementation and evaluation of different machine learning models  
+- Comparison of classification algorithms (SVM, Naive Bayes, etc.)  
+- Experiments with clustering and unsupervised learning methods  
+
+## Tools & Technologies
+
+Python • Scikit-learn • NumPy • Pandas
