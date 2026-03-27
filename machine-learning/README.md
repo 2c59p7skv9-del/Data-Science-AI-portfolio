@@ -1,28 +1,24 @@
 # Machine Learning
 
-This course focuses on fundamental machine learning algorithms and their practical implementation.
+This course focuses on machine learning and statistical methods applied to high-dimensional data.
 
-## Overview
+## Project: Hyperspectral Image Analysis
 
-Covers core supervised and unsupervised learning methods, model evaluation, and optimization techniques.
+- Processed hyperspectral images (HSI) as high-dimensional data cubes (spatial + spectral information)  
+- Implemented spectral unmixing techniques to estimate material composition at pixel level  
+- Applied multiple classification algorithms for supervised learning on image data  
 
-## Topics Covered
+## Techniques
+- Linear models and least squares optimization  
+- Constrained optimization (non-negativity, sum-to-one constraints)  
+- Sparse modeling (LASSO)  
+- Probabilistic classification (Naive Bayes, Bayesian methods)  
+- Distance-based learning (k-NN, minimum distance classifier)  
+- Cross-validation and model evaluation  
 
-- Linear and Logistic Regression  
-- Support Vector Machines (SVM)  
-- Bayesian methods (Naive Bayes)  
-- Clustering algorithms (e.g. k-means)  
-- Model evaluation (accuracy, precision, recall, F1-score)  
-- Regularization techniques  
-- Feature engineering  
-- Model selection and hyperparameter tuning  
-
-## Projects
-
-- Implementation and evaluation of different machine learning models  
-- Comparison of classification algorithms (SVM, Naive Bayes, etc.)  
-- Experiments with clustering and unsupervised learning methods  
-
-## Tools & Technologies
-
-Python • Scikit-learn • NumPy • Pandas
+## Tools
+- Python  
+- NumPy  
+- SciPy  
+- Scikit-learn  
+- Matplotlib  
