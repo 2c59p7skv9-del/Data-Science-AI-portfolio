@@ -30,7 +30,10 @@ In cases where datasets are publicly available, references or links are provided
 - Large Scale Data Management  
 - Text Analytics  
 - Probabilities & Statistics for Data Analysis  
-- Numerical Optimization & Large-Scale Linear Algebra  
+- Numerical Optimization & Large-Scale Linear Algebra
+- Deep Learning
+- Data Challenge
+- Data Visualization and Communications
 
 ---
 
@@ -40,7 +43,8 @@ In cases where datasets are publicly available, references or links are provided
 - Natural Language Processing (NLP)  
 - Large Language Models (LLMs)  
 - Knowledge Graphs  
-- Data Engineering & Scalable Systems  
+- Data Engineering & Scalable Systems
+- Neural Networks
 
 ---
 
