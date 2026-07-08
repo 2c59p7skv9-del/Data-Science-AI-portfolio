@@ -55,7 +55,4 @@ Each course folder contains:
 - Code implementations  
 - Reports and analysis
 
----
-## Notes
 
-This repository is continuously updated with new coursework and projects.
